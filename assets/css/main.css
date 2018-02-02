@@ -212,6 +212,10 @@
 		.container {
 			width: 960px;
 		}
+		p {
+			color: black;
+			font-size:16px;
+		}
 
 	}
 
