@@ -1553,11 +1553,11 @@
 	}
 
 /* Basic */
-
-    .sub-titulo {
-    color: black;
-}
-	body {
+	.texto-corpo {
+		color: black;
+		font-size: 20px;
+	}
+    	body {
 		background: #fff;
 	}
 
